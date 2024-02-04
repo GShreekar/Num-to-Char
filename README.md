@@ -11,4 +11,4 @@ A simple Python script that allows users to convert a Unicode code point (number
 5. Type exit to exit the program.
 
 ## To Do
-1. Create a GUI so that it can display emojis. (Command line does not display emojis)
+Display complex characters.
