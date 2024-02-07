@@ -11,4 +11,6 @@ A simple Python script that allows users to convert a Unicode code point (number
 5. Type exit to exit the program.
 
 ## To Do
-Display complex characters.
+1. Display complex characters.
+
+> This is just a simple script. It needs a lot of improvement.
