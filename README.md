@@ -1,16 +1,24 @@
-# Num-to-Char
-A simple Python script that allows users to convert a Unicode code point (number) into its corresponding Unicode character. Users can input a Unicode number in decimal format, and the program will provide the associated Unicode character.
+# Unicode to Character Converter
+This script allows you to convert Unicode numbers to their corresponding characters. It handles input validation and exits upon user request.
 
 ## Usage
-1. Clone the repository or download the Python script.
-  `git clone https://github.com/GShreekar/Num-to-Char.git`
-  `cd Num-to-Char`
-3. Run the Python script in your preferred Python environment (or simply, command line).
-  `python numtochar.py`
-4. Follow the on-screen instructions.
-5. Type exit to exit the program.
+1. **Run the Script**
+   - Open a terminal or command prompt.
+   - Clone the repository or download the Python script.
+     `git clone https://github.com/GShreekar/Num-to-Char.git`
+   - Navigate to the directory containing the script.
+     `cd Num-to-Char`
+   - Run the script using Python:
+     `python Num-to-Char.py`
+2. **Input**
+   - Enter a Unicode number when prompted. 
+   - To exit the program, type `exit`.
+3. **Output**
+   - The script will display the Unicode character corresponding to the entered number.
+   - Errors are handled for invalid input and out-of-range Unicode numbers.
 
-## To Do
-1. Display complex characters.
+## Requirements
+- Python 3.x
 
-> This is just a simple script. It needs a lot of improvement.
+## Further Development
+- **GUI interface for easier interaction:** Develop a graphical user interface (GUI) to provide a more intuitive and user-friendly way to input Unicode numbers and view their corresponding characters.
